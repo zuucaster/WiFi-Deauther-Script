@@ -22,5 +22,5 @@ This script automates WiFi deauthentication attacks using `aireplay-ng` and targ
 ```
 chmod +x wifi_deauther.sh
 ```
-sudo bash wifi_deauther.sh
 ```
+sudo bash wifi_deauther.sh
